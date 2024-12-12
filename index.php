@@ -70,7 +70,7 @@ $profile_image_url = $profile_image ? "uploads/$profile_image" : "uploads/defaul
             <img src="uploads/logodepan3.png" class="d-block w-100" alt="Slide 3">
             <div class="carousel-caption d-none d-md-block">
                 <h1>Knalpot Menarik!</h1>
-                <a href="product.php" class="btn btn-primary">Lihat produk</a>
+                <a href="product.php" class="btn btn-primary">Lihat produk boss</a>
             </div>
         </div>
     </div>
